@@ -9,9 +9,9 @@
  <a href="https://www.linkedin.com/in/rubenpicostizon/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
- ###
- <img align="right" height="150" src="https://i.imgflip.com/6dlky0.mp4"  />
- ###
+ 
+ <img align="right" height="150" src="https://i.imgflip.com/6dlky0.mp4](https://imgflip.com/gif/8hd3c)"/>
+ 
 
 </p>
 
