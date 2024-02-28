@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
  
- <img align="right" height="150" src="https://imgflip.com/gif/8hd3c" />
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75.83%;position:relative;"><iframe width="360" height="273" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8hd3c4"></iframe></div><p><a href="https://imgflip.com/gif/8hd3c4">via Imgflip</a></p></div>
 
  
 
