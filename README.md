@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Picos</h1>
 <h3 align="center">A frontend developer from Spain</h3>
 
-<img align="right" src="https://media4.giphy.com/media/irBHYSZxbUifTxTgBL/giphy.gif" width="300">
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="mailto:r.picostizon@gmail.com">
