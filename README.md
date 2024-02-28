@@ -9,9 +9,9 @@
  <a href="https://www.linkedin.com/in/rubenpicostizon/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
-  ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5wOXd0N3FxazdsMjBubmM0dDJjMTZ1cHpzMm50ZG16ZjE4a2Y0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/irBHYSZxbUifTxTgBL/giphy.gif)
-
+ ###
+ <img align="right" height="150" src="https://i.imgflip.com/6dlky0.mp4"  />
+ ###
 
 </p>
 
