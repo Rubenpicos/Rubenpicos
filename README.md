@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rubén Picos and I'm a fronted developer, from Spain</h2>
+<h2 align="left">Hi 👋! My name is Rubén Picos and I'm a Fronted developer, from Spain</h2>
 
 
 
